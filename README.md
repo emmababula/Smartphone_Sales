@@ -5,7 +5,7 @@
 
 - `code/` – Python code for cleaning and initial exploration
 - `data/` – raw and cleaned datasets
-- `tab` - Tableau dashboard
+- `dashboard` - Tableau dashboard packaged file
 - `.gitignore` – Files to exclude from version control (e.g., large CSVs)
 - `LICENSE` – Open-source license (MIT)
 - `README.md` – Project overview and instructions
