@@ -1,2 +1,31 @@
-# Smartphone_Sales
-Cleaned smartphone sales data using Python (Pandas) and visualized trends in pricing, discounts, and brand performance with Tableau.
+# Phone Sales Data Cleaning and Visualization
+## This project focuses on cleaning and preparing a smartphone sales dataset using Python (Pandas) for visualization in Tableau. The dataset includes information on brands, models, memory, storage, color, prices, discounts, and ratings.
+
+## Project Structure
+
+- `code/` – Python code for cleaning and initial exploration
+- `data/` – raw and cleaned datasets
+- `tab` - Tableau dashboard
+- `.gitignore` – Files to exclude from version control (e.g., large CSVs)
+- `LICENSE` – Open-source license (MIT)
+- `README.md` – Project overview and instructions
+
+## Data Cleaning (Python)
+
+- Removed or standardized inconsistent values (e.g., "Expandable Upto 32 GB" → 32)
+- Converted storage and memory columns to numeric GB values
+- Extracted simplified color labels (e.g., "Jet Black" → "black")
+- Calculated `selling_price_usd` based on current exchange rate
+- Dropped unnecessary columns like `Camera` and handled missing values appropriately
+
+## Visualization (Tableau)
+
+Built an interactive dashboard to explore:
+- Brand-wise revenue
+- Price distributions by storage
+- Discount percentages by brand
+- Discount and rating trends
+- Sales price and rating trends
+- Currency toggle (INR/USD) for dynamic revenue views
+- Popular color preferences
+
