@@ -1,0 +1,38 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore environment files
+.env
+*.env
+*.venv
+.venv/
+env/
+venv/
+ENV/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log and temporary files
+*.log
+*.tmp
+
+# Ignore CSV or output files that shouldn't be tracked
+sales_cleaned.csv
+
+# Ignore Tableau packaged files
+*.twbx
+*.tdsx
+*.hyper
+
+# Ignore VSCode or other editor config folders
+.vscode/
+.idea/
+
+# Ignore Tableau cache files
+My Tableau Repository/Logs/
