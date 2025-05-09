@@ -14,7 +14,7 @@
 
 The dataset used in this project was obtained from Kaggle:
 
-- [Smartphones Sales Dataset on Kaggle]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset/data))
+- [Smartphones Sales Dataset on Kaggle](https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset/data)
 
 The data includes details on smartphone sales in India.
 
