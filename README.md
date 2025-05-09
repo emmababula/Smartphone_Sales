@@ -10,6 +10,14 @@
 - `LICENSE` – Open-source license (MIT)
 - `README.md` – Project overview and instructions
 
+### Data Source
+
+The dataset used in this project was obtained from Kaggle:
+
+- [Smartphones Sales Dataset on Kaggle]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset/data))
+
+The data includes details on smartphone sales in India.
+
 ## Data Cleaning (Python)
 
 - Removed or standardized inconsistent values (e.g., "Expandable Upto 32 GB" → 32)
