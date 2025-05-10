@@ -39,5 +39,5 @@ Built an interactive dashboard to explore:
 
 ### View the Dashboard
 You can view the interactive Tableau dashboard here:  
-- [Phone Sales Dashboard on Tableau Public](https://public.tableau.com/views/PhoneSales_17467392914450/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [Phone Sales Dashboard on Tableau Public](https://public.tableau.com/views/PhoneSales_17467392914450/SmartphoneSales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
